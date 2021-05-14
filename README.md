@@ -17,3 +17,5 @@ Just a bunch of stuff that I keep here instead of as bookmarks so that I don't f
 - [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose/tree/pytorch): Real-Time and Accurate Full-Body Multi-Person Pose Estimation&Tracking System.
 
 - [Click](https://github.com/pallets/click): Python composable command line interface toolkit.
+
+- [einops](https://github.com/arogozhnikov/einops): Deep learning operations reinvented (for pytorch, tensorflow, jax and others)
